@@ -1,14 +1,5 @@
-# Import input.txt file as a list of strings
-with open('input.txt', 'r') as file:
-    puzzle = [line.strip() for line in file]
+#Change to file name for current challenge
+#import aoc23_12_01_P1
+#import aoc23_12_01_P2
+import aoc23_12_02_P1
 
-#Combine leftmost and rightmost numbers for each string in puzzle into an f-string
-total = 0
-
-for i in puzzle:
-    left = next((num for num in i if num.isdigit()), None)
-    right = next((num for num in reversed(i) if num.isdigit()), None)
-    combined = int(f"{left}{right}")
-    total += combined
-
-print(total)
