@@ -49,4 +49,4 @@ create_puzzle(lines)
 
 minimum_cubes(puzzle)
 game_id_power_sum = minimum_cubes(puzzle)
-print("The sum of all possible game IDs is: ", game_id_power_sum)
+print("The sum of all possible game powers is: ", game_id_power_sum)
