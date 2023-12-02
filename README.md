@@ -1,5 +1,5 @@
 # Advent of Code 2023
-![image generated with Dall-E 2](images/adventofcodeimage_dalle.png)
+<img src="images/adventofcodeimage_dalle.png" alt="image generated with Dall-E 2" width="50%"/>
 
 Prompts: https://adventofcode.com/2023/
 
