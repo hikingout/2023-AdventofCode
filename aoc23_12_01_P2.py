@@ -1,5 +1,5 @@
 # Import input.txt file as a list of strings
-with open('day1_input.txt', 'r') as file:
+with open('prompts/day1_input.txt', 'r') as file:
     puzzle = [line.strip() for line in file]
 
 total = 0
