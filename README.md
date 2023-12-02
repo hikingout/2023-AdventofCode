@@ -11,3 +11,5 @@ I completed these challenges using Replit and its ai aid, Ghostwriter. The ai is
 - [X] Day 2 Part 2
 
 [![Run on Repl.it](https://replit.com/@Gauging9004/2023-AdventofCode)](https://replit.com/@Gauging9004/2023-AdventofCode)
+
+[![Run on Repl.it](https://replit.com/badge/github/Conner1115/LangChain.js-LLM-Template)](https://replit.com/new/github/Conner1115/LangChain.js-LLM-Template)
