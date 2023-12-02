@@ -1,7 +1,7 @@
 # Advent of Code 2023
 
 <img src="images/adventofcodeimage_dalle.png" alt="image generated with Dall-E 2" width="40%"/>
-_Image generated with DALL-E 2_
+*Image generated with DALL-E 2*
 
 ## Prompts
 Source: https://adventofcode.com/2023/
