@@ -15,7 +15,17 @@ files = [
 dev = ["pytest"]
 test = ["pytest"]
 
+[[package]]
+name = "answers"
+version = "0.0.4"
+description = "Library for automating command line processes and installers"
+optional = false
+python-versions = "*"
+files = [
+    {file = "answers-0.0.4.tar.gz", hash = "sha256:f961ecc99b17dcfa33b9c44a6460d2ae833898a0af74171a7f39eb8aa215e350"},
+]
+
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.10.0,<3.11"
-content-hash = "b8182a9e45fb80c5340f334a625e16ea393e6b6035588d97dbc5f51a21706f56"
+content-hash = "58e954190b73873194d76dac592198ce4237fcb83adf4451aaf8d15cf78e0794"
