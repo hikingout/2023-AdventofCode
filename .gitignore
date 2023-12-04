@@ -1,3 +1,17 @@
+#ignore gitignore
+.gitignore
+
+#ignore breakpoints
+.breakpoints
+
+#ignore replit
+.replit
+
+#ignore __pychache__
+
+#ignore local virtual environment
+.local/
+
 #ignore prompts folder
 /prompts
 prompts
