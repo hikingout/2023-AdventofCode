@@ -5,8 +5,6 @@ with open('prompts/day1_input.txt', 'r') as file:
 #Combine leftmost and rightmost numbers for each string in puzzle into an f-string
 total = 0
 
-#stuff we are testing
-
 for i in puzzle:
     left = next((num for num in i if num.isdigit()), None)
     right = next((num for num in reversed(i) if num.isdigit()), None)
